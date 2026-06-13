@@ -1,2 +1,5 @@
 # Avatar-maker-with-ia-help-
-hice un juego de vestir (avatar maker) con un poco de ayuda de la ia, asi que lo comparto.  
+I made the code with IA help, but the drawings was made fot mi, so:
+
+You may use the artwork with attribution.
+Please credit Lindaraceli and link back to this repository.
